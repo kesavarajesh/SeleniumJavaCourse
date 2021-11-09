@@ -41,10 +41,6 @@ public class StringManipulation {
 		
 		String d = "01-01-1990";
 		System.out.println(d.replace("-", "/"));
-		
-		
-		
-		
 	}
 
 }
